@@ -1,5 +1,4 @@
 # Novel-Lab-Signoff-and-Queue-Management-system
-# 🧪 Lab Sign-Off & Student Request Management System
 
 **Full-stack web platform for academic lab sign-off with role-based access**
 
@@ -63,7 +62,7 @@ The platform supports three main roles: **Student**, **Assistant**, and **Profes
 
 ---
 
-## 🧩 System Architecture (High-Level)
+## 🧩 System Architecture 
 
 1. React frontend communicates with backend via REST APIs
 2. Django REST API handles authentication, business logic, and role access
@@ -72,7 +71,7 @@ The platform supports three main roles: **Student**, **Assistant**, and **Profes
 
 ---
 
-## 📂 Project Structure (Simplified)
+## 📂 Project Structure 
 
 ```
 /frontend    -> React UI
